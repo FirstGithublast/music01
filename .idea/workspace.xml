@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a514add0-9973-4f77-8f48-d9fbd32ca50f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/music-fore/src/api/http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-fore/src/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-fore/src/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-fore/src/assets/img/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-fore/src/assets/img/user.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-fore/src/assets/js/bus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-fore/src/assets/js/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-fore/src/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-fore/src/components/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-fore/src/components/SongAudio.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-fore/src/components/TheAside.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-fore/src/components/TheHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-fore/src/mixins/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-fore/src/pages/ComsumerPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-fore/src/pages/InfoPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-fore/src/pages/ListSongPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-fore/src/pages/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-fore/src/pages/SingerPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-fore/src/pages/SongListPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-fore/src/pages/SongPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/api/http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/404.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/album-content.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/comment.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/content-list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/info.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/login-in.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/login-logo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/lyric.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/my-music.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/play-bar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/scroll-top.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/search-song-Lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/search-songs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/search.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/setting.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/sign-up.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/singer-album.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/singer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/song-audio.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/song-list-album.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/song-list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/swiper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/the-aside.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/the-footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/the-header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/upload.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/css/var.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/data/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/data/swiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/img/tubiao.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/img/user.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/js/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/js/iconfont1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/js/iconfont2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/assets/js/iconfont3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/components/AlbumContent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/components/Comment.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/components/ContentList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/components/LoginLogo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/components/PlayBar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/components/ScrollTop.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/components/SingerAlbum.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/components/SongAudio.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/components/SongListAlbum.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/components/Swiper.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/components/TheAside.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/components/TheFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/components/TheHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/components/search/SearchSongLists.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/components/search/SearchSongs.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/mixins/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/page/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/page/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/page/Lyric.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/page/MyMusic.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/page/Search.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/page/Setter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/page/Signup.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/page/Singer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/page/SongList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/store/configure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/store/song.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicfore-end/src/store/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-fore/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/music-fore/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-fore/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/music-fore/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-fore/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-fore/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-fore/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/music-fore/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-fore/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/music-fore/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-fore/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/music-fore/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-fore/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-fore/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicfore-end/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/musicfore-end/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicfore-end/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/musicfore-end/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicfore-end/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/musicfore-end/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicfore-end/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicfore-end/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicfore-end/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/musicfore-end/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicfore-end/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/musicfore-end/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicfore-end/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/musicfore-end/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicfore-end/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicfore-end/src/views/HomeView.vue" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="music-fore" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Gradle Kotlin DSL Build Script" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/musicfore-end" />
+  </component>
+  <component name="ProjectId" id="25x0S1nRQnM1SeMp5IyhwRGNxj2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/musicfore-end/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Spring01\music-fore\musicfore-end\src\page" />
+      <recent name="D:\Spring01\music-fore\musicfore-end\src\assets\img" />
+      <recent name="D:\Spring01\music-fore\musicfore-end\src\assets" />
+      <recent name="D:\Spring01\music-fore\musicfore-end\src\components" />
+      <recent name="D:\Spring01\music-fore\music-fore\src\components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Spring01\music-fore\musicfore-end\src" />
+      <recent name="D:\Spring01\music-fore\musicfore-end\src\components" />
+      <recent name="D:\Spring01\music-fore\musicfore-end\src\assets\data" />
+      <recent name="D:\Spring01\music-fore\musicfore-end\src\assets" />
+      <recent name="D:\Spring01\music-fore\music-fore\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a514add0-9973-4f77-8f48-d9fbd32ca50f" name="Default Changelist" comment="" />
+      <created>1646453425071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646453425071</updated>
+      <workItem from="1646453428479" duration="66000" />
+      <workItem from="1646453505824" duration="8783000" />
+      <workItem from="1646484312582" duration="6978000" />
+      <workItem from="1646640396665" duration="17444000" />
+      <workItem from="1646800352637" duration="34138000" />
+      <workItem from="1646893944749" duration="91957000" />
+      <workItem from="1647349379133" duration="515000" />
+      <workItem from="1647349999254" duration="9379000" />
+      <workItem from="1647359479701" duration="65197000" />
+      <workItem from="1648095643047" duration="32795000" />
+      <workItem from="1648215238347" duration="41676000" />
+      <workItem from="1648450604123" duration="19349000" />
+      <workItem from="1648654509951" duration="17000" />
+      <workItem from="1650243020989" duration="1848000" />
+      <workItem from="1650291682597" duration="1802000" />
+      <workItem from="1650367711645" duration="5846000" />
+      <workItem from="1650443049771" duration="2214000" />
+      <workItem from="1650445275998" duration="4784000" />
+      <workItem from="1650454797850" duration="6640000" />
+      <workItem from="1650527534296" duration="11745000" />
+      <workItem from="1650958280662" duration="79000" />
+      <workItem from="1650959105058" duration="714000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
